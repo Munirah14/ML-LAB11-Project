@@ -7,11 +7,6 @@ ARTI308 - Machine Learning | K-Means Clustering Assignment
 - `02-Credit_Card_Customer_Segmentation_Solved.ipynb` — completed notebook
 - `CC_GENERAL.csv` — dataset (place in the same folder before running)
 
-## How to Run
-1. Put the notebook and `CC_GENERAL.csv` in the same folder
-2. Open the notebook in Jupyter
-3. Run all cells in order
-
 ## What It Does
 Uses K-Means clustering to segment 8,950 credit card customers into **4 groups** based on spending behavior (balance, purchases, cash advance, payments, etc.).
 
